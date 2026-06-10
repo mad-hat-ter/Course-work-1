@@ -1,5 +1,5 @@
 var HIDDEN_SHEETS = ['Настройки', 'Сотрудники', 'Журнал', 'Метаданные'];
-var DAY_COLUMNS = 7; // B..H
+var DAY_COLUMNS = 7;
 var FIRST_DAY_COL = 2;
 var FIRST_HOUR_ROW = 2;
 
