@@ -2,10 +2,7 @@ var HIDDEN_SHEETS = ['Настройки', 'Сотрудники', 'Журнал
 var DAY_COLUMNS = 7;
 var FIRST_DAY_COL = 2;
 var FIRST_HOUR_ROW = 2;
-
-var HOURS = [
-  9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 0
-];
+var HOURS = [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 0];
 
 function doGet(e) {
   try {
